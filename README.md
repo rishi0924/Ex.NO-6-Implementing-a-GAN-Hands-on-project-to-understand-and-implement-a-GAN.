@@ -1,3 +1,4 @@
+
 # Ex.NO-6-Implementing-a-GAN-Hands-on-project-to-understand-and-implement-a-GAN.
 ## Aim :To Understand and implement a GAN
 Generative Adversarial Network (GAN)
@@ -163,9 +164,11 @@ if (i + 1) % 100 == 0:
             plt.imshow(np.transpose(grid, (1, 2, 0)))
             plt.axis("off")
             plt.show()
+https://colab.research.google.com/drive/1_gLUp1Rc0L0qYZn4qIphLhczScHbaEFs#scrollTo=jTE9yq3jI0V3
 
+<img width="481" height="504" alt="image" src="https://github.com/user-attachments/assets/6a2611de-0b15-4b2c-aadb-925cb246369e" />
     
 
 
-## Conclusion:
+## RESULT:
 Thus successfully implemented and trained a GAN that learns to generate realistic CIFAR-10 images through adversarial training.
